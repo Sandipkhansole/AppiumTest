@@ -21,8 +21,7 @@ al.getText();
 driver.SwitchTo().frame(0);
 driver.SwitchTo().defaultContent();
 driver.switchTo().parentFrame();
-driver.switchTo().parentFrame();
-driver.switchTo().parentFrame();
+hgfdsa
 
 //this is for 
 DesiredCapabilities cp=new DesiredCapabilities();
